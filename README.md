@@ -11,7 +11,7 @@ API REST de usuarios feita com Node.js, Express e MySQL, organizada no padrao de
 2. Instale as dependencias: `npm install`
 3. Crie o banco: `mysql -u root -p < schema.sql`
 4. Copie `.env.example` para `.env` e preencha com seus dados do MySQL
-5. Inicie o servidor: `npm run dev` (ou `npm start`)
+5. Inicie o servidor: `npm run dev`
 
 A API fica em `http://localhost:3000/usuarios`.
 
